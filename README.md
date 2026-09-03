@@ -41,5 +41,5 @@ Automated Python analysis of 15 Nifty50 stocks — P/E ratios, rolling returns, 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khooshimangal/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khooshimangal/)
 [![Email](https://img.shields.io/badge/Email-khooshimangal%40gmail.com-red)](mailto:khooshimangal@gmail.com)
